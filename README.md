@@ -1,2 +1,0 @@
-# clock
-canvas clock demo
